@@ -38,4 +38,6 @@ Follow these steps to set up and run the backend application:
    npm install express mysql2 body-parser cors dotenv
    npm install --save-dev typescript @types/express @types/node ts-node
    npx tsc --init
+
+### Server running on http://localhost:5000
    
