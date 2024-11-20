@@ -33,7 +33,7 @@ Follow these steps to set up and run the backend application:
    ```bash
    git clone (https://github.com/KgySathsara/floor-management-backend)
    cd floor-management-backend
-2. **Clone the Repository**:
+2. **Dependencies**:
    ```bash
    npm install express mysql2 body-parser cors dotenv
    npm install --save-dev typescript @types/express @types/node ts-node
